@@ -1,0 +1,10 @@
+.venv
+.venv314
+__pycache__
+*.py[cod]
+.env
+pulseml.db
+outputs
+tests
+work
+.git

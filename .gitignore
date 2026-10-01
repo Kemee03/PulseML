@@ -1,0 +1,8 @@
+.venv/
+.venv314/
+__pycache__/
+*.py[cod]
+.env
+pulseml.db
+models/*/
+work/
